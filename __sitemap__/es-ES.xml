@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
-        <xhtml:link rel="alternate" href="/en-us" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="/es-es" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="/es-es" hreflang="es-ES" />
-    </url>
-    <url>
-        <loc>/ca-ca</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es" />
-        <image:image>
-            <image:loc>/images/suresh.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>/es-es</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us" />
         <image:image>
             <image:loc>/images/restaurants/casamuyo.jpg</image:loc>
         </image:image>
@@ -43,58 +28,22 @@
         </image:image>
     </url>
     <url>
-        <loc>/ca-ca/contact</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/contact" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/contact" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/contact" />
-    </url>
-    <url>
-        <loc>/ca-ca/cookies</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/cookies" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/cookies" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/cookies" />
-    </url>
-    <url>
-        <loc>/ca-ca/menu</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/menu" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/menu" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/menu" />
-        <image:image>
-            <image:loc>https://images.unsplash.com/photo-1572695157366-5e585ab2b69f</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://images.unsplash.com/photo-1550304943-4f24f54ddde9</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>/ca-ca/restaurants</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/restaurants" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/restaurants" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/restaurants" />
-    </url>
-    <url>
-        <loc>/ca-ca/terms-condition</loc>
-        <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/terms-condition" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/terms-condition" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/terms-condition" />
-    </url>
-    <url>
         <loc>/es-es/contact</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/contact" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/contact" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/contact" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us/contact" />
     </url>
     <url>
         <loc>/es-es/cookies</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/cookies" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/cookies" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/cookies" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us/cookies" />
     </url>
     <url>
         <loc>/es-es/menu</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/menu" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/menu" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/menu" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us/menu" />
         <image:image>
             <image:loc>https://images.unsplash.com/photo-1572695157366-5e585ab2b69f</image:loc>
         </image:image>
@@ -106,7 +55,7 @@
         <loc>/es-es/restaurants</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/restaurants" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/restaurants" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/restaurants" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us/restaurants" />
         <image:image>
             <image:loc>/images/restaurants/casamuyo.jpg</image:loc>
         </image:image>
@@ -121,7 +70,7 @@
         <loc>/es-es/terms-condition</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="/en-us/terms-condition" />
         <xhtml:link rel="alternate" hreflang="es-ES" href="/es-es/terms-condition" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="/es-es/terms-condition" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en-us/terms-condition" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-11-14T10:31:17.580Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-11-14T10:47:42.749Z -->
